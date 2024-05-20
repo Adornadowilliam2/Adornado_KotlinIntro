@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Adornado_Activity1</string>
+    <string name="introduce_yourself">Introduce Yourself</string>
+    <string name="personal_information">Personal Information</string>
+    <string name="full_name_william_b_adronado_jr">Full Name: William B. Adronado Jr.</string>
+    <string name="gender_male">Gender: Male</string>
+    <string name="date_of_birth_may_6_2005">Date of Birth: May 6, 2005</string>
+    <string name="place_of_birth_pasig_city">Place of Birth: Pasig City</string>
+    <string name="religion_roman_catholic">Religion: Roman Catholic</string>
+    <string name="father_s_name_william_s_adornado">Father\'s name: William S. Adornado</string>
+    <string name="occupation_security_guard">Occupation: Security guard</string>
+    <string name="mother_s_name_fe_n_bolofer">Mother\'s name: Fe N. Bolofer</string>
+    <string name="education_attainment">Education Attainment</string>
+    <string name="elementary_rosario_elementary_school">Elementary: Rosario Elementary School</string>
+    <string name="highschool_eusebio_high_school">Highschool: Eusebio High School</string>
+    <string name="achievement">Achievement</string>
+    <string name="_3rd_place_in_capstone_research">3rd Place in Capstone Research</string>
+    <string name="_2nd_place_in_tarpapel_research">2nd Place in Tarpapel Research</string>
+    <string name="full_name_william_b_adornado_jr">Full Name: William B. Adornado Jr.</string>
+    <string name="_3rd_place_in_skill_com">3rd Place in Skill Com</string>
+</resources>
